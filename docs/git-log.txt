@@ -1,3 +1,5 @@
+* 8ab8f91 Docs: 복제 저장소에서 GitHub 동기화 실습 기록
+* 55407df Docs: 실제 콘솔 실행과 환경 및 브랜치 기록 보관
 * 9cc4405 Test: 자동 검증 11개 통과 결과 기록
 * aec4189 Docs: GitHub 업로드와 clone pull 실습 및 제출 안내
 * 5deef84 Chore: 현재 PC의 Python으로 실행하는 Windows 런처 추가

@@ -1,5 +1,18 @@
 # 제출 체크리스트
 
+## 현재 완료 상태
+
+- 공개 GitHub 저장소: https://github.com/y-hue34/codyssey-quiz
+- 필수 퀴즈 기능, 기본 문제 8개, 클래스 분리, JSON 저장과 예외 처리 구현
+- 자동 검증 11개 통과: `validation.txt`
+- 기능별 커밋 10개 이상, `feature/quiz-play` 생성 및 main 병합 후 실제 GitHub push 완료
+- 별도 폴더에서 GitHub clone, README 수정 및 commit/push, 원래 폴더에서 pull 완료
+- 원격 동기화 증거: `git-practice.txt`
+- 실제 프로그램 실행 출력: `01-menu-list.txt`, `02-add.txt`, `03-play.txt`, `04-restart-invalid-input.txt`
+- 미완료: 실제 터미널 실행 화면 및 개발 환경 스크린샷, 코디세이 최종 제출
+
+실행 로그는 실제 프로그램 출력이며 스크린샷은 아닙니다. 커밋 작성자는 실제 구현 주체인 Codex로 기록했습니다.
+
 ## 로컬 완성 후 GitHub에 올리기
 
 GitHub 웹에서 빈 저장소를 생성합니다. 저장소 주소와 작성자 정보를 본인 값으로 바꿔 실행합니다.
@@ -39,4 +52,4 @@ git log --oneline --graph --all
 - 종료 후 다시 실행해 추가 문제와 점수가 유지되는 화면
 - `git log --oneline --graph --all` 화면
 
-`docs/validation.txt`는 자동 검증의 실제 출력입니다. 실행 화면 캡처를 대체했다고 간주하지 않습니다. GitHub 미연결 상태에서 원격 push/clone/pull을 완료했다고 주장하지 않습니다.
+`docs/validation.txt`는 자동 검증의 실제 출력입니다. 실행 화면 캡처를 대체했다고 간주하지 않습니다.

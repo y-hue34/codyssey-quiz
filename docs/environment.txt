@@ -1,5 +1,7 @@
-Python: 3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]
-Git: git version 2.56.0.windows.4
-
-Commit author: Codex <codex@localhost> (AI-generated work; user identity not supplied)
-GitHub remote: not configured
+Python 3.12.14 (requirement: 3.10+)
+Git 2.56.0.windows.4
+External packages: none (standard library only)
+Validation: 11 tests passed
+GitHub: https://github.com/y-hue34/codyssey-quiz
+Branches: main, feature/quiz-play (merged)
+Author: Codex <codex@localhost> (AI-assisted implementation)
