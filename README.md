@@ -74,3 +74,8 @@ git log --oneline --graph --all
 `Quiz`는 문제 한 개의 속성과 동작을 묶습니다. `QuizGame`은 여러 문제와 최고 점수를 관리합니다. `__init__`은 인스턴스 초기 상태를 만들고 `self`는 그 인스턴스를 가리킵니다. 메뉴는 `while`, 문제와 선택지 순회는 `for`를 사용합니다.
 
 제출 전 GitHub 업로드 및 복제 실습은 `docs/SUBMISSION.md`를 확인하세요. 생성된 코드의 동작과 Git 기록을 직접 확인하고 설명할 수 있도록 읽어보세요.
+
+## GitHub 동기화 실습
+
+별도 폴더에서 이 저장소를 clone하고 README를 수정하여 commit과 push를 수행한 뒤, 원래 작업 폴더에서 pull로 변경사항을 가져왔습니다. 실습 기록: docs/git-practice.txt.
+
