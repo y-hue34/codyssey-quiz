@@ -1,3 +1,4 @@
+* 97362c5 Docs: GitHub 업로드와 실제 clone pull 실습 완료 기록
 * 8ab8f91 Docs: 복제 저장소에서 GitHub 동기화 실습 기록
 * 55407df Docs: 실제 콘솔 실행과 환경 및 브랜치 기록 보관
 * 9cc4405 Test: 자동 검증 11개 통과 결과 기록

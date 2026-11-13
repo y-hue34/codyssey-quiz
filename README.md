@@ -79,3 +79,15 @@ git log --oneline --graph --all
 
 별도 폴더에서 이 저장소를 clone하고 README를 수정하여 commit과 push를 수행한 뒤, 원래 작업 폴더에서 pull로 변경사항을 가져왔습니다. 실습 기록: docs/git-practice.txt.
 
+## 실행 기록 화면 자료
+
+아래 이미지는 실제 프로그램 출력 및 Git 기록 파일을 VS Code에서 열어 캡처한 화면입니다. 직접 터미널을 조작하는 화면 캡처는 도구에서 차단되어, 터미널의 실시간 화면과 구분하여 제공합니다. 원본 출력은 `docs/*.txt`에 보관했습니다.
+
+| 확인 항목 | 화면 자료 |
+| --- | --- |
+| 개발 환경 기록 | [environment.jpg](docs/screenshots/environment.jpg) |
+| 퀴즈 추가와 목록 | [add-list.jpg](docs/screenshots/add-list.jpg) |
+| 퀴즈 플레이와 최고 점수 | [play-score.jpg](docs/screenshots/play-score.jpg) |
+| 재실행 후 데이터 유지와 입력 검증 | [restart-score.jpg](docs/screenshots/restart-score.jpg) |
+| Git 커밋과 브랜치 병합 | [git-log.jpg](docs/screenshots/git-log.jpg) |
+
