@@ -1,0 +1,15 @@
+* 9cc4405 Test: 자동 검증 11개 통과 결과 기록
+* aec4189 Docs: GitHub 업로드와 clone pull 실습 및 제출 안내
+* 5deef84 Chore: 현재 PC의 Python으로 실행하는 Windows 런처 추가
+* 50f01bf Docs: 실행 방법과 클래스 구조 및 데이터 스키마 설명
+* 1748c35 Test: 저장 복원과 입력 오류 및 중단 상황 11개 검증
+* a8a395c Feat: 콘솔 게임 실행 시작점 추가
+*   d46e142 Merge: 퀴즈 플레이 기능 병합
+|\  
+| * d71c12f Feat: 퀴즈 출제와 결과 집계 및 최고 점수 갱신
+|/  
+* be48bba Feat: 게임 관리 메뉴와 JSON 저장 복구 구현
+* 1604a67 Feat: 공백과 숫자 범위를 검사하는 재입력 처리
+* b90bad7 Feat: 파이썬과 Git 기본 퀴즈 8개 구성
+* b63c424 Feat: 검증 가능한 Quiz 모델과 정답 판정 구현
+* 1d58168 Chore: 퀴즈 프로젝트와 사용자 데이터 제외 규칙 설정
