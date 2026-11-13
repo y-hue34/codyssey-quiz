@@ -1,0 +1,136 @@
+commit 5af2da9b762f5cac06dfbbe0330a9a1e8b71d04f
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:46:29+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:46:29+09:00
+
+    Docs: 실제 실행 로그와 개발 환경 및 Git 이력 화면 자료 추가
+
+commit 97362c5dd50d29f8a3075ba7f7d062b4a81d5b7d
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:34:49+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:34:49+09:00
+
+    Docs: GitHub 업로드와 실제 clone pull 실습 완료 기록
+
+commit 8ab8f91d93db8fa4134102937650aca7b49fb473
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:27:48+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:27:48+09:00
+
+    Docs: 복제 저장소에서 GitHub 동기화 실습 기록
+
+commit 55407df2f1b11625abefcdc166764325c661b5b2
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:27+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:27+09:00
+
+    Docs: 실제 콘솔 실행과 환경 및 브랜치 기록 보관
+
+commit 9cc440572f12d14caf85cf8a14cc079732d55b10
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:22+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:22+09:00
+
+    Test: 자동 검증 11개 통과 결과 기록
+
+commit aec41892fac4c43fadfd7a3d19c771402fa75377
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:22+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:22+09:00
+
+    Docs: GitHub 업로드와 clone pull 실습 및 제출 안내
+
+commit 5deef84accf34b2dffe7fff0f08aa99ce1676136
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:21+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:21+09:00
+
+    Chore: 현재 PC의 Python으로 실행하는 Windows 런처 추가
+
+commit 50f01bf674a02537c03ac332076ee9cf07b7f1a9
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:21+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:21+09:00
+
+    Docs: 실행 방법과 클래스 구조 및 데이터 스키마 설명
+
+commit 1748c354c5c99ae019588715404f101046fc564a
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:20+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:20+09:00
+
+    Test: 저장 복원과 입력 오류 및 중단 상황 11개 검증
+
+commit a8a395c78d96cfe733e936ce7272eeaa3545da10
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:20+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:20+09:00
+
+    Feat: 콘솔 게임 실행 시작점 추가
+
+commit d46e14242289e3565663ce2e203e7502dfe764dd
+Merge: be48bba d71c12f
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:19+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:19+09:00
+
+    Merge: 퀴즈 플레이 기능 병합
+
+commit be48bba23997241d9d3fb1923f0c341c687c05dc
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:18+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:18+09:00
+
+    Feat: 게임 관리 메뉴와 JSON 저장 복구 구현
+
+commit d71c12f1c8f1129e0ff7c4f31a8b7a6b39a6d0ce
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:18+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:18+09:00
+
+    Feat: 퀴즈 출제와 결과 집계 및 최고 점수 갱신
+
+commit 1604a67c750f9a5101df48cd2be3c4308b51448a
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:17+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:17+09:00
+
+    Feat: 공백과 숫자 범위를 검사하는 재입력 처리
+
+commit b90bad7cae5c3e045579558ed02f468dba3ede12
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:17+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:17+09:00
+
+    Feat: 파이썬과 Git 기본 퀴즈 8개 구성
+
+commit b63c4240e1d2e8fafc2cf5178df049674d062505
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:16+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:16+09:00
+
+    Feat: 검증 가능한 Quiz 모델과 정답 판정 구현
+
+commit 1d58168b40aa591280643acf1f9212ebe3463b09
+Author:     Codex <codex@localhost>
+AuthorDate: 2026-11-13T23:08:15+09:00
+Commit:     Codex <codex@localhost>
+CommitDate: 2026-11-13T23:08:15+09:00
+
+    Chore: 퀴즈 프로젝트와 사용자 데이터 제외 규칙 설정
