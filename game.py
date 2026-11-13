@@ -60,6 +60,28 @@ class QuizGame:
         print('\n========== 파이썬 · Git 퀴즈 ==========')
         print('1. 퀴즈 풀기\n2. 퀴즈 추가\n3. 퀴즈 목록\n4. 점수 확인\n5. 종료')
 
+    def play(self):
+        if not self.quizzes:
+            print('퀴즈가 없습니다. 먼저 퀴즈를 추가하세요.')
+            return
+        correct = 0
+        print(f'퀴즈를 시작합니다! (총 {len(self.quizzes)}문제)')
+        for number, quiz in enumerate(self.quizzes, 1):
+            print(f'\n[문제 {number}]')
+            quiz.display()
+            answer = read_number('정답 입력 (1~4): ', 1, 4)
+            if quiz.is_correct(answer):
+                correct += 1
+                print('정답입니다!')
+            else:
+                print(f'오답입니다. 정답: {quiz.answer}. {quiz.choices[quiz.answer - 1]}')
+        score = round(correct / len(self.quizzes) * 100)
+        print(f'결과: {len(self.quizzes)}문제 중 {correct}문제 정답! ({score}점)')
+        if self.best_score is None or score > self.best_score:
+            self.best_score = score
+            print('새로운 최고 점수입니다!')
+        self.save_state()
+
     def add_quiz(self):
         print('새로운 퀴즈를 추가합니다.')
         question = read_text('문제: ')
